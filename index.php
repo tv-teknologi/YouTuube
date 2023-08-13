@@ -7,6 +7,5 @@
 </head>
 <body>
     <?= "WELCOME TO TV TEKNOLOGI !"; ?>
-    <h1>Hallo</h1>
 </body>
 </html>
